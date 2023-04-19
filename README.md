@@ -1,6 +1,6 @@
 # Hello, I'm Sara!
+![ReadyPlayerMe-Avatar](https://user-images.githubusercontent.com/69604736/233199117-6b8a49ef-b481-4eb9-8062-a621748967f3.png)
 
-[[3d Avatar](https://holopin.io/api/user/board?user=pr1nz3551n](https://readyplayer.me/gallery/6440547c2f3f9b83bb94c844-Wkxuz9png)]
 
 
 Welcome to my GitHub profile! Here you will find a collection of my coding projects, ranging from web development, bash scripting to cybersecurity. I am passionate about coding and always striving to learn and improve my skills.
