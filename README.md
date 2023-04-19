@@ -1,6 +1,6 @@
 # Hello, I'm Sara!
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://readyplayer.me/gallery/6440547c2f3f9b83bb94c844-Wkxuz9png) "3D Avatar"
+[logo]: [(https://readyplayer.me/gallery/6440547c2f3f9b83bb94c844-Wkxuz9png] "3D Avatar"
 
 
 Welcome to my GitHub profile! Here you will find a collection of my coding projects, ranging from web development, bash scripting to cybersecurity. I am passionate about coding and always striving to learn and improve my skills.
