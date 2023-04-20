@@ -53,4 +53,5 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out to me for any inquiries or collaborations. Let's connect and build something awesome together!
 
 
+![](https://raw.githubusercontent.com/sarakendig/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
