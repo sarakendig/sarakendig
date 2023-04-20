@@ -30,6 +30,8 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 
 ## Connect with Me
 
+![website-000000_style=for-the-badge logo=About](https://user-images.githubusercontent.com/69604736/233227397-73466a87-fab4-4f8c-97ab-2dad09e9c10a.png)](https://www.sarakendig.com/)
+![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/69604736/233227485-e9b350e3-6615-4c28-906b-5a4ff0466201.png)](https://www.linkedin.com/in/sarakendig/)
 
 
 
@@ -38,5 +40,6 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out to me for any inquiries or collaborations. Let's connect and build something awesome together!
+
 
 
