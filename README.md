@@ -44,7 +44,6 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 
 [![website-000000_style=for-the-badge logo=About](https://user-images.githubusercontent.com/69604736/233227397-73466a87-fab4-4f8c-97ab-2dad09e9c10a.png)](https://www.sarakendig.com/)
 [![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/69604736/233228365-1c7c5582-b1cd-4674-8ee4-427af78332e4.png)](https://www.linkedin.com/in/sarakendig/)
-
 [![Gmail-D14836_style=for-the-badge logo=gmail logoColor=white](https://user-images.githubusercontent.com/69604736/233229620-f55ff229-38bd-434b-927e-ffa1fc7e5a01.png)](mailto:sarakendig@gmail.com)
 
 
