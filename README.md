@@ -1,5 +1,5 @@
 # Hello, I'm Sara!
-![Black and Pink Cyberpunk Streetwear T-Shirt (1)gg](https://user-images.githubusercontent.com/69604736/233405506-33ce8607-f3db-4870-931e-34b791d2e223.png)
+![Black and Pink Cyberpunk Streetwear T-Shirt (Logo)](https://user-images.githubusercontent.com/69604736/233408262-e785d1a8-1d83-4d2c-a24d-a67cd5863794.gif)
 
 
 Welcome to my GitHub profile! Here you will find a collection of my coding projects, ranging from web development, bash scripting to cybersecurity. I am passionate about coding and always striving to learn and improve my skills.
@@ -53,4 +53,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and r
 
 
 ![](https://raw.githubusercontent.com/sarakendig/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
+
 
