@@ -1,5 +1,6 @@
 # Hello, I'm Sara!
-![Black and Pink Cyberpunk Streetwear T-Shirt (Logo)](https://user-images.githubusercontent.com/69604736/233408262-e785d1a8-1d83-4d2c-a24d-a67cd5863794.gif)
+
+![Black and Pink Cyberpunk Streetwear T-Shirt (Logo) (1)](https://user-images.githubusercontent.com/69604736/233408968-263d2a3c-042e-46e2-a596-96f603ac590c.gif)
 
 
 Welcome to my GitHub profile! Here you will find a collection of my coding projects, ranging from web development, bash scripting to cybersecurity. I am passionate about coding and always striving to learn and improve my skills.
