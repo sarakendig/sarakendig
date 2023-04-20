@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 ## Back-end
 ![Node js-43853D_style=for-the-badge logo=node](https://user-images.githubusercontent.com/69604736/233199747-d38a5ea2-869d-40c9-ac26-d39201471f9f.png)
 
-##Databases
+## Databases
 
 ![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://user-images.githubusercontent.com/69604736/233200080-a5d4bb3e-ee9f-4166-b591-1f6e5d976324.png)
 ![PostgreSQL-316192_style=for-the-badge logo=postgresql logoColor=white](https://user-images.githubusercontent.com/69604736/233200091-a0334ef0-4fc5-4e58-ac50-bb0fbe29f942.png)
