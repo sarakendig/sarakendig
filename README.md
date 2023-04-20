@@ -1,6 +1,5 @@
 # Hello, I'm Sara!
-![ReadyPlayerMe-Avatar](https://user-images.githubusercontent.com/69604736/233199117-6b8a49ef-b481-4eb9-8062-a621748967f3.png)
-
+![Black and Pink Cyberpunk Streetwear T-Shirt (1)gg](https://user-images.githubusercontent.com/69604736/233405506-33ce8607-f3db-4870-931e-34b791d2e223.png)
 
 
 Welcome to my GitHub profile! Here you will find a collection of my coding projects, ranging from web development, bash scripting to cybersecurity. I am passionate about coding and always striving to learn and improve my skills.
