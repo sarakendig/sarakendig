@@ -47,9 +47,9 @@ Welcome to my GitHub profile! Here you will find a collection of my coding proje
 
 ## Competitions / CTF
 
-# National Cyber League
+#### National Cyber League
 
-[National Cyber League](https://i.imgur.com/LUSjgyI.png)
+![National Cyber League](https://i.imgur.com/LUSjgyI.png)
 
 ## Holopin
 [![@pr1nz3551n's Holopin board](https://holopin.io/api/user/board?user=pr1nz3551n)](https://holopin.io/@pr1nz3551n)
