@@ -1,4 +1,4 @@
-# Hello, I'm Sara!
+# Hello!
 
 ![Black and Pink Cyberpunk Streetwear T-Shirt (Logo) (1)](https://user-images.githubusercontent.com/69604736/233408968-263d2a3c-042e-46e2-a596-96f603ac590c.gif)
 
